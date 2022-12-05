@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "src/main/java/com/learning/day1"
+        "src/main/java",
+        "src/main",
+        "src"
     ]
 }
